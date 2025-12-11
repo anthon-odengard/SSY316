@@ -1,0 +1,1890 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1080pt" height="360pt" viewBox="0 0 1080 360" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2025-11-20T23:05:23.314417</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.7, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 360 
+L 1080 360 
+L 1080 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 62.21 318.04 
+L 531.998577 318.04 
+L 531.998577 26.16 
+L 62.21 26.16 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 83.564026 318.04 
+L 83.564026 26.16 
+" clip-path="url(#p7bd4308926)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="mc45a3511b2" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mc45a3511b2" x="83.564026" y="318.04" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- 0 -->
+      <g transform="translate(80.402307 332.749375) scale(0.1 -0.1)">
+       <defs>
+        <path id="LucidaGrande-30" d="M 2006 -116 
+Q 1291 -116 848 557 
+Q 406 1231 406 2316 
+Q 406 3409 851 4075 
+Q 1297 4741 2025 4741 
+Q 2753 4741 3198 4075 
+Q 3644 3409 3644 2325 
+Q 3644 1213 3198 548 
+Q 2753 -116 2006 -116 
+z
+M 2013 347 
+Q 2991 347 2991 2334 
+Q 2991 4278 2025 4278 
+Q 1063 4278 1063 2316 
+Q 1063 347 2013 347 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#LucidaGrande-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 136.949092 318.04 
+L 136.949092 26.16 
+" clip-path="url(#p7bd4308926)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#mc45a3511b2" x="136.949092" y="318.04" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- 250 -->
+      <g transform="translate(127.463935 332.749375) scale(0.1 -0.1)">
+       <defs>
+        <path id="LucidaGrande-32" d="M 531 0 
+L 531 541 
+Q 800 1169 1619 1909 
+L 1972 2225 
+Q 2653 2841 2653 3447 
+Q 2653 3834 2420 4056 
+Q 2188 4278 1781 4278 
+Q 1300 4278 647 3906 
+L 647 4450 
+Q 1263 4741 1869 4741 
+Q 2519 4741 2912 4391 
+Q 3306 4041 3306 3463 
+Q 3306 3047 3107 2725 
+Q 2909 2403 2369 1944 
+L 2131 1741 
+Q 1391 1113 1275 541 
+L 3284 541 
+L 3284 0 
+L 531 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="LucidaGrande-35" d="M 778 -19 
+L 778 531 
+Q 1238 347 1653 347 
+Q 2109 347 2370 615 
+Q 2631 884 2631 1356 
+Q 2631 2397 1197 2397 
+Q 1034 2397 856 2375 
+L 856 4625 
+L 3197 4625 
+L 3197 4088 
+L 1397 4088 
+L 1397 2869 
+Q 2288 2869 2788 2459 
+Q 3288 2050 3288 1325 
+Q 3288 650 2833 267 
+Q 2378 -116 1572 -116 
+Q 1222 -116 778 -19 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#LucidaGrande-32"/>
+       <use xlink:href="#LucidaGrande-35" transform="translate(63.232422 0)"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(126.464844 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 190.334157 318.04 
+L 190.334157 26.16 
+" clip-path="url(#p7bd4308926)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#mc45a3511b2" x="190.334157" y="318.04" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- 500 -->
+      <g transform="translate(180.849001 332.749375) scale(0.1 -0.1)">
+       <use xlink:href="#LucidaGrande-35"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(63.232422 0)"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(126.464844 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 243.719223 318.04 
+L 243.719223 26.16 
+" clip-path="url(#p7bd4308926)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#mc45a3511b2" x="243.719223" y="318.04" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- 750 -->
+      <g transform="translate(234.234067 332.749375) scale(0.1 -0.1)">
+       <defs>
+        <path id="LucidaGrande-37" d="M 963 0 
+Q 1053 541 1220 934 
+Q 1388 1328 1813 2016 
+L 3075 4047 
+L 694 4047 
+L 694 4625 
+L 3663 4625 
+L 3663 4047 
+Q 1884 1425 1672 0 
+L 963 0 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#LucidaGrande-37"/>
+       <use xlink:href="#LucidaGrande-35" transform="translate(63.232422 0)"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(126.464844 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 297.104288 318.04 
+L 297.104288 26.16 
+" clip-path="url(#p7bd4308926)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#mc45a3511b2" x="297.104288" y="318.04" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <!-- 1000 -->
+      <g transform="translate(284.457413 332.749375) scale(0.1 -0.1)">
+       <defs>
+        <path id="LucidaGrande-31" d="M 963 0 
+L 963 463 
+L 1888 463 
+L 1888 4113 
+L 963 3881 
+L 963 4356 
+L 2506 4741 
+L 2506 463 
+L 3431 463 
+L 3431 0 
+L 963 0 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#LucidaGrande-31"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(63.232422 0)"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(126.464844 0)"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(189.697266 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 350.489354 318.04 
+L 350.489354 26.16 
+" clip-path="url(#p7bd4308926)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#mc45a3511b2" x="350.489354" y="318.04" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- 1250 -->
+      <g transform="translate(337.842479 332.749375) scale(0.1 -0.1)">
+       <use xlink:href="#LucidaGrande-31"/>
+       <use xlink:href="#LucidaGrande-32" transform="translate(63.232422 0)"/>
+       <use xlink:href="#LucidaGrande-35" transform="translate(126.464844 0)"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(189.697266 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_13">
+      <path d="M 403.874419 318.04 
+L 403.874419 26.16 
+" clip-path="url(#p7bd4308926)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#mc45a3511b2" x="403.874419" y="318.04" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <!-- 1500 -->
+      <g transform="translate(391.227544 332.749375) scale(0.1 -0.1)">
+       <use xlink:href="#LucidaGrande-31"/>
+       <use xlink:href="#LucidaGrande-35" transform="translate(63.232422 0)"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(126.464844 0)"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(189.697266 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_15">
+      <path d="M 457.259485 318.04 
+L 457.259485 26.16 
+" clip-path="url(#p7bd4308926)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#mc45a3511b2" x="457.259485" y="318.04" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <!-- 1750 -->
+      <g transform="translate(444.61261 332.749375) scale(0.1 -0.1)">
+       <use xlink:href="#LucidaGrande-31"/>
+       <use xlink:href="#LucidaGrande-37" transform="translate(63.232422 0)"/>
+       <use xlink:href="#LucidaGrande-35" transform="translate(126.464844 0)"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(189.697266 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_17">
+      <path d="M 510.64455 318.04 
+L 510.64455 26.16 
+" clip-path="url(#p7bd4308926)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#mc45a3511b2" x="510.64455" y="318.04" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <!-- 2000 -->
+      <g transform="translate(497.997675 332.749375) scale(0.1 -0.1)">
+       <use xlink:href="#LucidaGrande-32"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(63.232422 0)"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(126.464844 0)"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(189.697266 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_10">
+     <!-- Iterations -->
+     <g transform="translate(274.16132 346.386875) scale(0.1 -0.1)">
+      <defs>
+       <path id="LucidaGrande-49" d="M 594 0 
+L 594 4625 
+L 1250 4625 
+L 1250 0 
+L 594 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="LucidaGrande-74" d="M 1634 -78 
+Q 1166 -78 903 190 
+Q 641 459 641 938 
+L 641 2931 
+L 216 2931 
+L 216 3394 
+L 641 3394 
+L 641 4009 
+L 1256 4069 
+L 1256 3394 
+L 2144 3394 
+L 2144 2931 
+L 1256 2931 
+L 1256 1050 
+Q 1256 384 1831 384 
+Q 1953 384 2128 425 
+L 2128 0 
+Q 1844 -78 1634 -78 
+z
+" transform="scale(0.015625)"/>
+       <path id="LucidaGrande-65" d="M 3103 109 
+Q 2484 -78 2044 -78 
+Q 1294 -78 820 420 
+Q 347 919 347 1713 
+Q 347 2484 764 2978 
+Q 1181 3472 1831 3472 
+Q 2447 3472 2783 3034 
+Q 3119 2597 3119 1791 
+L 3116 1600 
+L 975 1600 
+Q 1109 391 2159 391 
+Q 2544 391 3103 597 
+L 3103 109 
+z
+M 1003 2063 
+L 2500 2063 
+Q 2500 3009 1794 3009 
+Q 1084 3009 1003 2063 
+z
+" transform="scale(0.015625)"/>
+       <path id="LucidaGrande-72" d="M 616 0 
+L 616 3394 
+L 1231 3394 
+L 1231 2756 
+Q 1597 3469 2294 3469 
+Q 2388 3469 2491 3453 
+L 2491 2878 
+Q 2331 2931 2209 2931 
+Q 1625 2931 1231 2238 
+L 1231 0 
+L 616 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="LucidaGrande-61" d="M 2366 431 
+Q 1813 -78 1300 -78 
+Q 878 -78 600 186 
+Q 322 450 322 853 
+Q 322 1409 789 1707 
+Q 1256 2006 2128 2006 
+L 2275 2006 
+L 2275 2416 
+Q 2275 3006 1669 3006 
+Q 1181 3006 616 2706 
+L 616 3216 
+Q 1238 3469 1781 3469 
+Q 2350 3469 2620 3212 
+Q 2891 2956 2891 2416 
+L 2891 878 
+Q 2891 350 3216 350 
+Q 3256 350 3334 363 
+L 3378 22 
+Q 3169 -78 2916 -78 
+Q 2484 -78 2366 431 
+z
+M 2275 766 
+L 2275 1644 
+L 2069 1650 
+Q 1563 1650 1250 1458 
+Q 938 1266 938 953 
+Q 938 731 1094 578 
+Q 1250 425 1475 425 
+Q 1859 425 2275 766 
+z
+" transform="scale(0.015625)"/>
+       <path id="LucidaGrande-69" d="M 616 0 
+L 616 3394 
+L 1231 3394 
+L 1231 0 
+L 616 0 
+z
+M 616 4009 
+L 616 4625 
+L 1231 4625 
+L 1231 4009 
+L 616 4009 
+z
+" transform="scale(0.015625)"/>
+       <path id="LucidaGrande-6f" d="M 1944 -78 
+Q 1216 -78 781 405 
+Q 347 888 347 1697 
+Q 347 2516 783 2992 
+Q 1219 3469 1966 3469 
+Q 2713 3469 3148 2992 
+Q 3584 2516 3584 1703 
+Q 3584 872 3146 397 
+Q 2709 -78 1944 -78 
+z
+M 1953 384 
+Q 2931 384 2931 1703 
+Q 2931 3006 1966 3006 
+Q 1003 3006 1003 1697 
+Q 1003 384 1953 384 
+z
+" transform="scale(0.015625)"/>
+       <path id="LucidaGrande-6e" d="M 616 0 
+L 616 3394 
+L 1231 3394 
+L 1231 2756 
+Q 1719 3469 2425 3469 
+Q 2866 3469 3128 3189 
+Q 3391 2909 3391 2438 
+L 3391 0 
+L 2775 0 
+L 2775 2238 
+Q 2775 2616 2664 2777 
+Q 2553 2938 2297 2938 
+Q 1731 2938 1231 2197 
+L 1231 0 
+L 616 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="LucidaGrande-73" d="M 1516 -78 
+Q 1094 -78 491 119 
+L 491 684 
+Q 1094 384 1541 384 
+Q 1806 384 1981 528 
+Q 2156 672 2156 888 
+Q 2156 1203 1666 1409 
+L 1306 1563 
+Q 509 1894 509 2516 
+Q 509 2959 823 3214 
+Q 1138 3469 1684 3469 
+Q 1969 3469 2388 3391 
+L 2516 3366 
+L 2516 2853 
+Q 2000 3006 1697 3006 
+Q 1103 3006 1103 2575 
+Q 1103 2297 1553 2106 
+L 1850 1981 
+Q 2353 1769 2562 1533 
+Q 2772 1297 2772 944 
+Q 2772 497 2419 209 
+Q 2066 -78 1516 -78 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#LucidaGrande-49"/>
+      <use xlink:href="#LucidaGrande-74" transform="translate(28.808594 0)"/>
+      <use xlink:href="#LucidaGrande-65" transform="translate(66.210938 0)"/>
+      <use xlink:href="#LucidaGrande-72" transform="translate(121.923828 0)"/>
+      <use xlink:href="#LucidaGrande-61" transform="translate(162.841797 0)"/>
+      <use xlink:href="#LucidaGrande-74" transform="translate(218.066406 0)"/>
+      <use xlink:href="#LucidaGrande-69" transform="translate(255.46875 0)"/>
+      <use xlink:href="#LucidaGrande-6f" transform="translate(284.375 0)"/>
+      <use xlink:href="#LucidaGrande-6e" transform="translate(345.800781 0)"/>
+      <use xlink:href="#LucidaGrande-73" transform="translate(407.861328 0)"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_19">
+      <path d="M 62.21 282.718962 
+L 531.998577 282.718962 
+" clip-path="url(#p7bd4308926)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_20">
+      <defs>
+       <path id="ma1425e7892" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#ma1425e7892" x="62.21" y="282.718962" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <!-- −0.50 -->
+      <g transform="translate(25.120938 286.573649) scale(0.1 -0.1)">
+       <defs>
+        <path id="LucidaGrande-2212" d="M 694 1619 
+L 694 2081 
+L 4394 2081 
+L 4394 1619 
+L 694 1619 
+z
+" transform="scale(0.015625)"/>
+        <path id="LucidaGrande-2e" d="M 625 0 
+L 625 772 
+L 1397 772 
+L 1397 0 
+L 625 0 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#LucidaGrande-2212"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(79.541016 0)"/>
+       <use xlink:href="#LucidaGrande-2e" transform="translate(142.773438 0)"/>
+       <use xlink:href="#LucidaGrande-35" transform="translate(174.414062 0)"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(237.646484 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_21">
+      <path d="M 62.21 242.41626 
+L 531.998577 242.41626 
+" clip-path="url(#p7bd4308926)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#ma1425e7892" x="62.21" y="242.41626" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <!-- −0.45 -->
+      <g transform="translate(25.120938 246.270948) scale(0.1 -0.1)">
+       <defs>
+        <path id="LucidaGrande-34" d="M 2409 0 
+L 2409 1309 
+L 328 1309 
+L 328 1775 
+L 2409 4625 
+L 2988 4625 
+L 2988 1813 
+L 3606 1813 
+L 3606 1309 
+L 2988 1309 
+L 2988 0 
+L 2409 0 
+z
+M 931 1813 
+L 2450 1813 
+L 2450 3869 
+L 931 1813 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#LucidaGrande-2212"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(79.541016 0)"/>
+       <use xlink:href="#LucidaGrande-2e" transform="translate(142.773438 0)"/>
+       <use xlink:href="#LucidaGrande-34" transform="translate(174.414062 0)"/>
+       <use xlink:href="#LucidaGrande-35" transform="translate(237.646484 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_23">
+      <path d="M 62.21 202.113559 
+L 531.998577 202.113559 
+" clip-path="url(#p7bd4308926)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#ma1425e7892" x="62.21" y="202.113559" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <!-- −0.40 -->
+      <g transform="translate(25.120938 205.968247) scale(0.1 -0.1)">
+       <use xlink:href="#LucidaGrande-2212"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(79.541016 0)"/>
+       <use xlink:href="#LucidaGrande-2e" transform="translate(142.773438 0)"/>
+       <use xlink:href="#LucidaGrande-34" transform="translate(174.414062 0)"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(237.646484 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_25">
+      <path d="M 62.21 161.810858 
+L 531.998577 161.810858 
+" clip-path="url(#p7bd4308926)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#ma1425e7892" x="62.21" y="161.810858" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <!-- −0.35 -->
+      <g transform="translate(25.120938 165.665546) scale(0.1 -0.1)">
+       <defs>
+        <path id="LucidaGrande-33" d="M 650 34 
+L 650 609 
+Q 1313 347 1694 347 
+Q 2134 347 2411 605 
+Q 2688 863 2688 1272 
+Q 2688 2247 1322 2247 
+L 1078 2247 
+L 1078 2663 
+L 1294 2666 
+Q 2575 2666 2575 3569 
+Q 2575 4278 1731 4278 
+Q 1269 4278 713 4019 
+L 713 4556 
+Q 1259 4741 1775 4741 
+Q 3194 4741 3194 3669 
+Q 3194 2853 2228 2506 
+Q 3347 2247 3347 1281 
+Q 3347 628 2915 256 
+Q 2484 -116 1731 -116 
+Q 1303 -116 650 34 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#LucidaGrande-2212"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(79.541016 0)"/>
+       <use xlink:href="#LucidaGrande-2e" transform="translate(142.773438 0)"/>
+       <use xlink:href="#LucidaGrande-33" transform="translate(174.414062 0)"/>
+       <use xlink:href="#LucidaGrande-35" transform="translate(237.646484 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_27">
+      <path d="M 62.21 121.508157 
+L 531.998577 121.508157 
+" clip-path="url(#p7bd4308926)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#ma1425e7892" x="62.21" y="121.508157" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <!-- −0.30 -->
+      <g transform="translate(25.120938 125.362844) scale(0.1 -0.1)">
+       <use xlink:href="#LucidaGrande-2212"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(79.541016 0)"/>
+       <use xlink:href="#LucidaGrande-2e" transform="translate(142.773438 0)"/>
+       <use xlink:href="#LucidaGrande-33" transform="translate(174.414062 0)"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(237.646484 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_29">
+      <path d="M 62.21 81.205456 
+L 531.998577 81.205456 
+" clip-path="url(#p7bd4308926)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_30">
+      <g>
+       <use xlink:href="#ma1425e7892" x="62.21" y="81.205456" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <!-- −0.25 -->
+      <g transform="translate(25.120938 85.060143) scale(0.1 -0.1)">
+       <use xlink:href="#LucidaGrande-2212"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(79.541016 0)"/>
+       <use xlink:href="#LucidaGrande-2e" transform="translate(142.773438 0)"/>
+       <use xlink:href="#LucidaGrande-32" transform="translate(174.414062 0)"/>
+       <use xlink:href="#LucidaGrande-35" transform="translate(237.646484 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_31">
+      <path d="M 62.21 40.902755 
+L 531.998577 40.902755 
+" clip-path="url(#p7bd4308926)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_32">
+      <g>
+       <use xlink:href="#ma1425e7892" x="62.21" y="40.902755" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <!-- −0.20 -->
+      <g transform="translate(25.120938 44.757442) scale(0.1 -0.1)">
+       <use xlink:href="#LucidaGrande-2212"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(79.541016 0)"/>
+       <use xlink:href="#LucidaGrande-2e" transform="translate(142.773438 0)"/>
+       <use xlink:href="#LucidaGrande-32" transform="translate(174.414062 0)"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(237.646484 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_18">
+     <!-- Log(MSE) -->
+     <g transform="translate(19.075625 193.917188) rotate(-90) scale(0.1 -0.1)">
+      <defs>
+       <path id="LucidaGrande-4c" d="M 597 0 
+L 597 4625 
+L 1253 4625 
+L 1253 491 
+L 3334 491 
+L 3334 0 
+L 597 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="LucidaGrande-67" d="M 628 -1128 
+L 700 -594 
+Q 1234 -847 1753 -847 
+Q 2794 -847 2794 256 
+L 2794 791 
+Q 2453 78 1675 78 
+Q 1066 78 706 522 
+Q 347 966 347 1719 
+Q 347 2494 756 2981 
+Q 1166 3469 1816 3469 
+Q 2384 3469 2794 3006 
+L 2794 3394 
+L 3413 3394 
+L 3413 925 
+Q 3413 128 3330 -255 
+Q 3247 -638 3019 -881 
+Q 2616 -1309 1766 -1309 
+Q 1172 -1309 628 -1128 
+z
+M 2794 1175 
+L 2794 2584 
+Q 2388 3006 1909 3006 
+Q 1484 3006 1243 2665 
+Q 1003 2325 1003 1731 
+Q 1003 616 1788 616 
+Q 2322 616 2794 1175 
+z
+" transform="scale(0.015625)"/>
+       <path id="LucidaGrande-28" d="M 1850 -500 
+L 1850 -925 
+Q 1175 -466 779 323 
+Q 384 1113 384 2006 
+Q 384 2897 779 3686 
+Q 1175 4475 1850 4934 
+L 1850 4509 
+Q 1391 4009 1195 3434 
+Q 1000 2859 1000 2006 
+Q 1000 1150 1195 575 
+Q 1391 0 1850 -500 
+z
+" transform="scale(0.015625)"/>
+       <path id="LucidaGrande-4d" d="M 597 0 
+L 597 4625 
+L 1506 4625 
+L 2788 1047 
+L 4106 4625 
+L 4919 4625 
+L 4919 0 
+L 4306 0 
+L 4306 3763 
+L 3031 309 
+L 2397 309 
+L 1159 3772 
+L 1159 0 
+L 597 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="LucidaGrande-53" d="M 1503 -116 
+Q 1038 -116 313 88 
+L 313 738 
+Q 1094 375 1597 375 
+Q 1984 375 2220 578 
+Q 2456 781 2456 1113 
+Q 2456 1384 2301 1575 
+Q 2147 1766 1731 2000 
+L 1413 2184 
+Q 822 2522 580 2820 
+Q 338 3119 338 3516 
+Q 338 4050 725 4395 
+Q 1113 4741 1713 4741 
+Q 2247 4741 2841 4563 
+L 2841 3963 
+Q 2109 4250 1750 4250 
+Q 1409 4250 1187 4069 
+Q 966 3888 966 3613 
+Q 966 3381 1128 3203 
+Q 1291 3025 1722 2778 
+L 2053 2591 
+Q 2653 2250 2890 1947 
+Q 3128 1644 3128 1219 
+Q 3128 616 2683 250 
+Q 2238 -116 1503 -116 
+z
+" transform="scale(0.015625)"/>
+       <path id="LucidaGrande-45" d="M 597 0 
+L 597 4625 
+L 3181 4625 
+L 3181 4134 
+L 1253 4134 
+L 1253 2650 
+L 2869 2650 
+L 2869 2166 
+L 1253 2166 
+L 1253 491 
+L 3316 491 
+L 3316 0 
+L 597 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="LucidaGrande-29" d="M 231 -500 
+L 231 -925 
+Q 906 -466 1301 323 
+Q 1697 1113 1697 2006 
+Q 1697 2897 1301 3686 
+Q 906 4475 231 4934 
+L 231 4509 
+Q 691 4009 886 3434 
+Q 1081 2859 1081 2006 
+Q 1081 1150 886 575 
+Q 691 0 231 -500 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#LucidaGrande-4c"/>
+      <use xlink:href="#LucidaGrande-6f" transform="translate(53.320312 0)"/>
+      <use xlink:href="#LucidaGrande-67" transform="translate(114.746094 0)"/>
+      <use xlink:href="#LucidaGrande-28" transform="translate(177.099609 0)"/>
+      <use xlink:href="#LucidaGrande-4d" transform="translate(209.619141 0)"/>
+      <use xlink:href="#LucidaGrande-53" transform="translate(295.751953 0)"/>
+      <use xlink:href="#LucidaGrande-45" transform="translate(349.609375 0)"/>
+      <use xlink:href="#LucidaGrande-29" transform="translate(403.808594 0)"/>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_33">
+    <path d="M 83.564026 59.778226 
+L 132.037666 89.231959 
+L 151.256289 100.825264 
+L 159.370819 105.702002 
+L 167.485349 110.559401 
+L 204.000734 132.270159 
+L 220.443334 141.91088 
+L 232.615129 149.033114 
+L 250.125431 159.244398 
+L 263.151387 166.842434 
+L 274.896101 173.640722 
+L 280.661688 177.00223 
+L 289.843919 182.300813 
+L 366.931954 226.128698 
+L 371.62984 228.753759 
+L 385.082876 236.284476 
+L 399.817154 244.443519 
+L 419.676399 255.440561 
+L 428.004469 260.024214 
+L 452.98868 273.670311 
+L 510.64455 304.772727 
+L 510.64455 304.772727 
+" clip-path="url(#p7bd4308926)" style="fill: none; stroke: #1f77b4; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_34">
+    <path d="M 83.564026 39.427273 
+L 134.600149 70.668494 
+L 187.985214 102.915812 
+L 212.328804 117.465039 
+L 225.35476 125.147559 
+L 250.125431 139.750024 
+L 263.151387 147.425069 
+L 274.25548 153.9153 
+L 282.15647 158.568444 
+L 316.536452 178.52538 
+L 334.260294 188.703633 
+L 348.353951 196.776647 
+L 382.306853 216.080707 
+L 426.082607 240.635173 
+L 432.702355 244.311852 
+L 501.462319 282.092538 
+L 505.306044 284.185808 
+L 510.64455 287.080626 
+L 510.64455 287.080626 
+" clip-path="url(#p7bd4308926)" style="fill: none; stroke: #ff7f0e; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 62.21 318.04 
+L 62.21 26.16 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 531.998577 318.04 
+L 531.998577 26.16 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 62.21 318.04 
+L 531.998577 318.04 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 62.21 26.16 
+L 531.998577 26.16 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_19">
+    <!-- Q3: Loss curves -->
+    <g transform="translate(251.190226 20.16) scale(0.12 -0.12)">
+     <defs>
+      <path id="LucidaGrande-51" d="M 4703 -925 
+Q 3613 -572 2875 -84 
+Q 2581 -116 2422 -116 
+Q 1491 -116 908 559 
+Q 325 1234 325 2313 
+Q 325 3419 914 4080 
+Q 1503 4741 2488 4741 
+Q 3475 4741 4062 4078 
+Q 4650 3416 4650 2303 
+Q 4650 709 3466 97 
+Q 4263 -253 5119 -403 
+L 4703 -925 
+z
+M 2469 375 
+Q 3178 375 3565 884 
+Q 3953 1394 3953 2325 
+Q 3953 3228 3565 3739 
+Q 3178 4250 2488 4250 
+Q 1797 4250 1409 3739 
+Q 1022 3228 1022 2319 
+Q 1022 1413 1406 894 
+Q 1791 375 2469 375 
+z
+" transform="scale(0.015625)"/>
+      <path id="LucidaGrande-3a" d="M 703 0 
+L 703 616 
+L 1319 616 
+L 1319 0 
+L 703 0 
+z
+M 703 2775 
+L 703 3394 
+L 1319 3394 
+L 1319 2775 
+L 703 2775 
+z
+" transform="scale(0.015625)"/>
+      <path id="LucidaGrande-20" transform="scale(0.015625)"/>
+      <path id="LucidaGrande-63" d="M 1941 -78 
+Q 1253 -78 800 431 
+Q 347 941 347 1716 
+Q 347 2544 795 3006 
+Q 1244 3469 2047 3469 
+Q 2444 3469 2934 3359 
+L 2934 2844 
+Q 2413 2997 2084 2997 
+Q 1613 2997 1327 2642 
+Q 1041 2288 1041 1697 
+Q 1041 1125 1334 772 
+Q 1628 419 2103 419 
+Q 2525 419 2972 634 
+L 2972 103 
+Q 2375 -78 1941 -78 
+z
+" transform="scale(0.015625)"/>
+      <path id="LucidaGrande-75" d="M 2738 0 
+L 2738 638 
+Q 2247 -78 1547 -78 
+Q 1103 -78 840 201 
+Q 578 481 578 956 
+L 578 3394 
+L 1194 3394 
+L 1194 1156 
+Q 1194 775 1305 614 
+Q 1416 453 1675 453 
+Q 2238 453 2738 1194 
+L 2738 3394 
+L 3353 3394 
+L 3353 0 
+L 2738 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="LucidaGrande-76" d="M 1319 0 
+L 56 3394 
+L 672 3394 
+L 1659 753 
+L 2700 3394 
+L 3275 3394 
+L 1934 0 
+L 1319 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#LucidaGrande-51"/>
+     <use xlink:href="#LucidaGrande-33" transform="translate(77.685547 0)"/>
+     <use xlink:href="#LucidaGrande-3a" transform="translate(140.917969 0)"/>
+     <use xlink:href="#LucidaGrande-20" transform="translate(172.558594 0)"/>
+     <use xlink:href="#LucidaGrande-4c" transform="translate(204.199219 0)"/>
+     <use xlink:href="#LucidaGrande-6f" transform="translate(257.519531 0)"/>
+     <use xlink:href="#LucidaGrande-73" transform="translate(318.945312 0)"/>
+     <use xlink:href="#LucidaGrande-73" transform="translate(369.921875 0)"/>
+     <use xlink:href="#LucidaGrande-20" transform="translate(420.898438 0)"/>
+     <use xlink:href="#LucidaGrande-63" transform="translate(452.539062 0)"/>
+     <use xlink:href="#LucidaGrande-75" transform="translate(503.759766 0)"/>
+     <use xlink:href="#LucidaGrande-72" transform="translate(565.820312 0)"/>
+     <use xlink:href="#LucidaGrande-76" transform="translate(606.738281 0)"/>
+     <use xlink:href="#LucidaGrande-65" transform="translate(658.496094 0)"/>
+     <use xlink:href="#LucidaGrande-73" transform="translate(714.208984 0)"/>
+    </g>
+   </g>
+   <g id="legend_1">
+    <g id="patch_7">
+     <path d="M 445.570452 63.435 
+L 524.998577 63.435 
+Q 526.998577 63.435 526.998577 61.435 
+L 526.998577 33.16 
+Q 526.998577 31.16 524.998577 31.16 
+L 445.570452 31.16 
+Q 443.570452 31.16 443.570452 33.16 
+L 443.570452 61.435 
+Q 443.570452 63.435 445.570452 63.435 
+z
+" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+    </g>
+    <g id="line2d_35">
+     <path d="M 447.570452 39.369375 
+L 457.570452 39.369375 
+L 467.570452 39.369375 
+" style="fill: none; stroke: #1f77b4; stroke-width: 2; stroke-linecap: square"/>
+    </g>
+    <g id="text_20">
+     <!-- Train loss -->
+     <g transform="translate(475.570452 42.869375) scale(0.1 -0.1)">
+      <defs>
+       <path id="LucidaGrande-54" d="M 1697 0 
+L 1697 4134 
+L 56 4134 
+L 56 4625 
+L 3994 4625 
+L 3994 4134 
+L 2353 4134 
+L 2353 0 
+L 1697 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="LucidaGrande-6c" d="M 616 0 
+L 616 4934 
+L 1231 4934 
+L 1231 0 
+L 616 0 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#LucidaGrande-54"/>
+      <use xlink:href="#LucidaGrande-72" transform="translate(63.232422 0)"/>
+      <use xlink:href="#LucidaGrande-61" transform="translate(104.150391 0)"/>
+      <use xlink:href="#LucidaGrande-69" transform="translate(159.375 0)"/>
+      <use xlink:href="#LucidaGrande-6e" transform="translate(188.28125 0)"/>
+      <use xlink:href="#LucidaGrande-20" transform="translate(250.341797 0)"/>
+      <use xlink:href="#LucidaGrande-6c" transform="translate(281.982422 0)"/>
+      <use xlink:href="#LucidaGrande-6f" transform="translate(310.888672 0)"/>
+      <use xlink:href="#LucidaGrande-73" transform="translate(372.314453 0)"/>
+      <use xlink:href="#LucidaGrande-73" transform="translate(423.291016 0)"/>
+     </g>
+    </g>
+    <g id="line2d_36">
+     <path d="M 447.570452 54.006875 
+L 457.570452 54.006875 
+L 467.570452 54.006875 
+" style="fill: none; stroke: #ff7f0e; stroke-width: 2; stroke-linecap: square"/>
+    </g>
+    <g id="text_21">
+     <!-- Test loss -->
+     <g transform="translate(475.570452 57.506875) scale(0.1 -0.1)">
+      <use xlink:href="#LucidaGrande-54"/>
+      <use xlink:href="#LucidaGrande-65" transform="translate(63.232422 0)"/>
+      <use xlink:href="#LucidaGrande-73" transform="translate(118.945312 0)"/>
+      <use xlink:href="#LucidaGrande-74" transform="translate(169.921875 0)"/>
+      <use xlink:href="#LucidaGrande-20" transform="translate(207.324219 0)"/>
+      <use xlink:href="#LucidaGrande-6c" transform="translate(238.964844 0)"/>
+      <use xlink:href="#LucidaGrande-6f" transform="translate(267.871094 0)"/>
+      <use xlink:href="#LucidaGrande-73" transform="translate(329.296875 0)"/>
+      <use xlink:href="#LucidaGrande-73" transform="translate(380.273438 0)"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_8">
+    <path d="M 597.088577 318.04 
+L 1066.877153 318.04 
+L 1066.877153 26.16 
+L 597.088577 26.16 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m2eb129714d" d="M 0 2.738613 
+C 0.726289 2.738613 1.422928 2.450055 1.936492 1.936492 
+C 2.450055 1.422928 2.738613 0.726289 2.738613 0 
+C 2.738613 -0.726289 2.450055 -1.422928 1.936492 -1.936492 
+C 1.422928 -2.450055 0.726289 -2.738613 0 -2.738613 
+C -0.726289 -2.738613 -1.422928 -2.450055 -1.936492 -1.936492 
+C -2.450055 -1.422928 -2.738613 -0.726289 -2.738613 0 
+C -2.738613 0.726289 -2.450055 1.422928 -1.936492 1.936492 
+C -1.422928 2.450055 -0.726289 2.738613 0 2.738613 
+z
+" style="stroke: #0000ff; stroke-opacity: 0.6"/>
+    </defs>
+    <g clip-path="url(#p9ec60e4a78)">
+     <use xlink:href="#m2eb129714d" x="659.371174" y="78.684323" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="761.209698" y="77.172706" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="967.249163" y="132.639718" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="717.32291" y="77.866032" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="1041.614623" y="249.343557" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="633.602912" y="78.810219" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="858.124124" y="81.524322" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="849.38858" y="79.777772" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="734.601176" y="77.832474" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="669.609547" y="78.186532" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="773.627986" y="77.108607" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="733.278528" y="77.525475" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="642.516049" y="78.712309" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="1045.519215" y="257.830498" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="712.344675" y="78.09666" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="679.618421" y="78.254127" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="942.060806" y="111.087362" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="702.63892" y="78.042925" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="843.965568" y="79.21851" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="662.565791" y="78.307839" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="697.693597" y="77.690049" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="613.235725" y="78.541846" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="674.540587" y="77.9058" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="739.09856" y="77.855702" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="644.461286" y="78.174653" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="926.001259" y="102.576045" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="641.088445" y="78.475595" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="847.99723" y="79.264958" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="734.787129" y="77.433279" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="1002.103459" y="174.807749" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="813.545261" y="77.07745" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="1062.949498" y="304.772727" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="790.908829" y="76.8553" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="748.346986" y="76.980513" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="777.564492" y="76.840495" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="858.989864" y="81.170082" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="759.065761" y="77.68992" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="859.255741" y="81.609516" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="841.936274" y="78.810502" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="1057.007139" y="287.836518" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="926.38216" y="102.368245" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="739.690594" y="76.987663" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="833.793135" y="78.177321" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="762.955196" y="77.052366" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="1061.63685" y="300.386758" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="830.877605" y="78.693494" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="909.966497" y="94.821787" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="727.320002" y="77.559859" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="1044.496231" y="256.368627" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="835.086418" y="78.797622" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="845.439603" y="79.138213" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="966.743548" y="132.255367" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="735.918471" y="77.44868" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="718.366613" y="78.04893" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="601.016231" y="78.654862" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="781.162896" y="77.061622" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="686.508594" y="78.06101" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="604.165915" y="78.454569" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="696.394766" y="78.091238" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="978.369292" y="143.808362" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="1016.239263" y="198.118606" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="898.060878" y="90.026534" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="971.642196" y="137.1207" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="947.767671" y="116.032915" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="681.49898" y="78.636186" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="839.193911" y="79.197665" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="883.33027" y="86.16133" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="665.817162" y="78.379511" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="1023.489959" y="211.462479" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     <use xlink:href="#m2eb129714d" x="777.714984" y="77.239455" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+    </g>
+   </g>
+   <g id="PathCollection_2">
+    <defs>
+     <path id="m614f538f92" d="M 0 2.236068 
+C 0.593012 2.236068 1.161816 2.000462 1.581139 1.581139 
+C 2.000462 1.161816 2.236068 0.593012 2.236068 0 
+C 2.236068 -0.593012 2.000462 -1.161816 1.581139 -1.581139 
+C 1.161816 -2.000462 0.593012 -2.236068 0 -2.236068 
+C -0.593012 -2.236068 -1.161816 -2.000462 -1.581139 -1.581139 
+C -2.000462 -1.161816 -2.236068 -0.593012 -2.236068 0 
+C -2.236068 0.593012 -2.000462 1.161816 -1.581139 1.581139 
+C -1.161816 2.000462 -0.593012 2.236068 0 2.236068 
+z
+" style="stroke: #ffa500; stroke-opacity: 0.4"/>
+    </defs>
+    <g clip-path="url(#p9ec60e4a78)">
+     <use xlink:href="#m614f538f92" x="947.879406" y="116.077321" style="fill: #ffa500; fill-opacity: 0.4; stroke: #ffa500; stroke-opacity: 0.4"/>
+     <use xlink:href="#m614f538f92" x="788.674469" y="76.262526" style="fill: #ffa500; fill-opacity: 0.4; stroke: #ffa500; stroke-opacity: 0.4"/>
+     <use xlink:href="#m614f538f92" x="878.720012" y="84.519633" style="fill: #ffa500; fill-opacity: 0.4; stroke: #ffa500; stroke-opacity: 0.4"/>
+     <use xlink:href="#m614f538f92" x="757.145886" y="77.312334" style="fill: #ffa500; fill-opacity: 0.4; stroke: #ffa500; stroke-opacity: 0.4"/>
+     <use xlink:href="#m614f538f92" x="755.93778" y="77.202357" style="fill: #ffa500; fill-opacity: 0.4; stroke: #ffa500; stroke-opacity: 0.4"/>
+     <use xlink:href="#m614f538f92" x="739.214831" y="77.262288" style="fill: #ffa500; fill-opacity: 0.4; stroke: #ffa500; stroke-opacity: 0.4"/>
+     <use xlink:href="#m614f538f92" x="695.896148" y="77.622993" style="fill: #ffa500; fill-opacity: 0.4; stroke: #ffa500; stroke-opacity: 0.4"/>
+     <use xlink:href="#m614f538f92" x="940.25697" y="111.098391" style="fill: #ffa500; fill-opacity: 0.4; stroke: #ffa500; stroke-opacity: 0.4"/>
+     <use xlink:href="#m614f538f92" x="651.493776" y="78.412289" style="fill: #ffa500; fill-opacity: 0.4; stroke: #ffa500; stroke-opacity: 0.4"/>
+     <use xlink:href="#m614f538f92" x="596.879976" y="78.9178" style="fill: #ffa500; fill-opacity: 0.4; stroke: #ffa500; stroke-opacity: 0.4"/>
+     <use xlink:href="#m614f538f92" x="675.558432" y="78.165357" style="fill: #ffa500; fill-opacity: 0.4; stroke: #ffa500; stroke-opacity: 0.4"/>
+     <use xlink:href="#m614f538f92" x="721.661388" y="77.521783" style="fill: #ffa500; fill-opacity: 0.4; stroke: #ffa500; stroke-opacity: 0.4"/>
+     <use xlink:href="#m614f538f92" x="897.311994" y="90.109182" style="fill: #ffa500; fill-opacity: 0.4; stroke: #ffa500; stroke-opacity: 0.4"/>
+     <use xlink:href="#m614f538f92" x="727.427029" y="77.548138" style="fill: #ffa500; fill-opacity: 0.4; stroke: #ffa500; stroke-opacity: 0.4"/>
+     <use xlink:href="#m614f538f92" x="1008.217306" y="184.65461" style="fill: #ffa500; fill-opacity: 0.4; stroke: #ffa500; stroke-opacity: 0.4"/>
+     <use xlink:href="#m614f538f92" x="621.35675" y="78.328045" style="fill: #ffa500; fill-opacity: 0.4; stroke: #ffa500; stroke-opacity: 0.4"/>
+     <use xlink:href="#m614f538f92" x="915.734218" y="96.966824" style="fill: #ffa500; fill-opacity: 0.4; stroke: #ffa500; stroke-opacity: 0.4"/>
+     <use xlink:href="#m614f538f92" x="924.581345" y="101.444079" style="fill: #ffa500; fill-opacity: 0.4; stroke: #ffa500; stroke-opacity: 0.4"/>
+     <use xlink:href="#m614f538f92" x="660.317368" y="78.047843" style="fill: #ffa500; fill-opacity: 0.4; stroke: #ffa500; stroke-opacity: 0.4"/>
+     <use xlink:href="#m614f538f92" x="722.924006" y="77.523553" style="fill: #ffa500; fill-opacity: 0.4; stroke: #ffa500; stroke-opacity: 0.4"/>
+     <use xlink:href="#m614f538f92" x="792.30113" y="77.210196" style="fill: #ffa500; fill-opacity: 0.4; stroke: #ffa500; stroke-opacity: 0.4"/>
+     <use xlink:href="#m614f538f92" x="992.519093" y="161.477409" style="fill: #ffa500; fill-opacity: 0.4; stroke: #ffa500; stroke-opacity: 0.4"/>
+     <use xlink:href="#m614f538f92" x="705.640389" y="78.694421" style="fill: #ffa500; fill-opacity: 0.4; stroke: #ffa500; stroke-opacity: 0.4"/>
+     <use xlink:href="#m614f538f92" x="745.644302" y="77.30855" style="fill: #ffa500; fill-opacity: 0.4; stroke: #ffa500; stroke-opacity: 0.4"/>
+     <use xlink:href="#m614f538f92" x="866.814905" y="82.527833" style="fill: #ffa500; fill-opacity: 0.4; stroke: #ffa500; stroke-opacity: 0.4"/>
+     <use xlink:href="#m614f538f92" x="669.459019" y="78.046611" style="fill: #ffa500; fill-opacity: 0.4; stroke: #ffa500; stroke-opacity: 0.4"/>
+     <use xlink:href="#m614f538f92" x="739.309546" y="77.447935" style="fill: #ffa500; fill-opacity: 0.4; stroke: #ffa500; stroke-opacity: 0.4"/>
+     <use xlink:href="#m614f538f92" x="1047.073513" y="262.663872" style="fill: #ffa500; fill-opacity: 0.4; stroke: #ffa500; stroke-opacity: 0.4"/>
+     <use xlink:href="#m614f538f92" x="645.062111" y="78.165521" style="fill: #ffa500; fill-opacity: 0.4; stroke: #ffa500; stroke-opacity: 0.4"/>
+     <use xlink:href="#m614f538f92" x="888.254029" y="87.447148" style="fill: #ffa500; fill-opacity: 0.4; stroke: #ffa500; stroke-opacity: 0.4"/>
+    </g>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_10">
+     <g id="line2d_37">
+      <path d="M 673.090296 318.04 
+L 673.090296 26.16 
+" clip-path="url(#p9ec60e4a78)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_38">
+      <g>
+       <use xlink:href="#mc45a3511b2" x="673.090296" y="318.04" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <!-- 1 -->
+      <g transform="translate(669.928577 332.749375) scale(0.1 -0.1)">
+       <use xlink:href="#LucidaGrande-31"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_39">
+      <path d="M 751.643392 318.04 
+L 751.643392 26.16 
+" clip-path="url(#p9ec60e4a78)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_40">
+      <g>
+       <use xlink:href="#mc45a3511b2" x="751.643392" y="318.04" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <!-- 2 -->
+      <g transform="translate(748.481674 332.749375) scale(0.1 -0.1)">
+       <use xlink:href="#LucidaGrande-32"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_41">
+      <path d="M 830.196488 318.04 
+L 830.196488 26.16 
+" clip-path="url(#p9ec60e4a78)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_42">
+      <g>
+       <use xlink:href="#mc45a3511b2" x="830.196488" y="318.04" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <!-- 3 -->
+      <g transform="translate(827.03477 332.749375) scale(0.1 -0.1)">
+       <use xlink:href="#LucidaGrande-33"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_13">
+     <g id="line2d_43">
+      <path d="M 908.749585 318.04 
+L 908.749585 26.16 
+" clip-path="url(#p9ec60e4a78)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_44">
+      <g>
+       <use xlink:href="#mc45a3511b2" x="908.749585" y="318.04" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_25">
+      <!-- 4 -->
+      <g transform="translate(905.587866 332.749375) scale(0.1 -0.1)">
+       <use xlink:href="#LucidaGrande-34"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_14">
+     <g id="line2d_45">
+      <path d="M 987.302681 318.04 
+L 987.302681 26.16 
+" clip-path="url(#p9ec60e4a78)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_46">
+      <g>
+       <use xlink:href="#mc45a3511b2" x="987.302681" y="318.04" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <!-- 5 -->
+      <g transform="translate(984.140962 332.749375) scale(0.1 -0.1)">
+       <use xlink:href="#LucidaGrande-35"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_15">
+     <g id="line2d_47">
+      <path d="M 1065.855777 318.04 
+L 1065.855777 26.16 
+" clip-path="url(#p9ec60e4a78)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_48">
+      <g>
+       <use xlink:href="#mc45a3511b2" x="1065.855777" y="318.04" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <!-- 6 -->
+      <g transform="translate(1062.694058 332.749375) scale(0.1 -0.1)">
+       <defs>
+        <path id="LucidaGrande-36" d="M 1100 2397 
+Q 1541 2969 2209 2969 
+Q 2816 2969 3202 2567 
+Q 3588 2166 3588 1538 
+Q 3588 816 3155 350 
+Q 2722 -116 2056 -116 
+Q 1291 -116 859 500 
+Q 428 1116 428 2209 
+Q 428 3413 923 4078 
+Q 1419 4744 2319 4744 
+Q 2731 4744 3350 4569 
+L 3350 4031 
+Q 2697 4281 2281 4281 
+Q 1100 4281 1100 2397 
+z
+M 2969 1400 
+Q 2969 1925 2733 2225 
+Q 2497 2525 2078 2525 
+Q 1688 2525 1406 2262 
+Q 1125 2000 1125 1631 
+Q 1125 1050 1392 698 
+Q 1659 347 2100 347 
+Q 2497 347 2733 633 
+Q 2969 919 2969 1400 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#LucidaGrande-36"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_28">
+     <!-- x -->
+     <g transform="translate(828.916459 346.386875) scale(0.1 -0.1)">
+      <defs>
+       <path id="LucidaGrande-78" d="M 275 0 
+L 1566 1753 
+L 313 3394 
+L 1044 3394 
+L 2034 2088 
+L 2931 3394 
+L 3531 3394 
+L 2356 1672 
+L 3634 0 
+L 2903 0 
+L 1881 1344 
+L 894 0 
+L 275 0 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#LucidaGrande-78"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_8">
+     <g id="line2d_49">
+      <path d="M 597.088577 290.528697 
+L 1066.877153 290.528697 
+" clip-path="url(#p9ec60e4a78)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_50">
+      <g>
+       <use xlink:href="#ma1425e7892" x="597.088577" y="290.528697" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_29">
+      <!-- −4000 -->
+      <g transform="translate(556.840139 294.383384) scale(0.1 -0.1)">
+       <use xlink:href="#LucidaGrande-2212"/>
+       <use xlink:href="#LucidaGrande-34" transform="translate(79.541016 0)"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(142.773438 0)"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(206.005859 0)"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(269.238281 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_51">
+      <path d="M 597.088577 237.536173 
+L 1066.877153 237.536173 
+" clip-path="url(#p9ec60e4a78)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_52">
+      <g>
+       <use xlink:href="#ma1425e7892" x="597.088577" y="237.536173" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_30">
+      <!-- −3000 -->
+      <g transform="translate(556.840139 241.390861) scale(0.1 -0.1)">
+       <use xlink:href="#LucidaGrande-2212"/>
+       <use xlink:href="#LucidaGrande-33" transform="translate(79.541016 0)"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(142.773438 0)"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(206.005859 0)"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(269.238281 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_53">
+      <path d="M 597.088577 184.54365 
+L 1066.877153 184.54365 
+" clip-path="url(#p9ec60e4a78)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_54">
+      <g>
+       <use xlink:href="#ma1425e7892" x="597.088577" y="184.54365" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_31">
+      <!-- −2000 -->
+      <g transform="translate(556.840139 188.398337) scale(0.1 -0.1)">
+       <use xlink:href="#LucidaGrande-2212"/>
+       <use xlink:href="#LucidaGrande-32" transform="translate(79.541016 0)"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(142.773438 0)"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(206.005859 0)"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(269.238281 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_55">
+      <path d="M 597.088577 131.551126 
+L 1066.877153 131.551126 
+" clip-path="url(#p9ec60e4a78)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_56">
+      <g>
+       <use xlink:href="#ma1425e7892" x="597.088577" y="131.551126" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_32">
+      <!-- −1000 -->
+      <g transform="translate(556.840139 135.405814) scale(0.1 -0.1)">
+       <use xlink:href="#LucidaGrande-2212"/>
+       <use xlink:href="#LucidaGrande-31" transform="translate(79.541016 0)"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(142.773438 0)"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(206.005859 0)"/>
+       <use xlink:href="#LucidaGrande-30" transform="translate(269.238281 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_57">
+      <path d="M 597.088577 78.558603 
+L 1066.877153 78.558603 
+" clip-path="url(#p9ec60e4a78)" style="fill: none; stroke: #b0b0b0; stroke-opacity: 0.3; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_58">
+      <g>
+       <use xlink:href="#ma1425e7892" x="597.088577" y="78.558603" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_33">
+      <!-- 0 -->
+      <g transform="translate(583.765139 82.41329) scale(0.1 -0.1)">
+       <use xlink:href="#LucidaGrande-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_34">
+     <!-- y -->
+     <g transform="translate(550.912014 174.7125) rotate(-90) scale(0.1 -0.1)">
+      <defs>
+       <path id="LucidaGrande-79" d="M 813 -1234 
+L 1363 0 
+L 50 3394 
+L 716 3394 
+L 1688 838 
+L 2725 3394 
+L 3306 3394 
+L 1453 -1234 
+L 813 -1234 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#LucidaGrande-79"/>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_59">
+    <path d="M 601.016231 78.497827 
+L 669.519361 78.318945 
+L 703.770926 77.974913 
+L 788.936979 76.947915 
+L 803.748467 77.115134 
+L 815.782801 77.455099 
+L 826.891416 77.98324 
+L 837.074314 78.692371 
+L 846.331494 79.561612 
+L 854.662955 80.55774 
+L 862.994417 81.786311 
+L 870.400161 83.0987 
+L 877.805904 84.642923 
+L 884.28593 86.203988 
+L 890.765956 87.979569 
+L 897.245982 89.98846 
+L 903.726008 92.250447 
+L 909.280315 94.406479 
+L 914.834623 96.777435 
+L 920.388931 99.377596 
+L 925.943239 102.22183 
+L 931.497547 105.325597 
+L 937.051855 108.704968 
+L 942.606162 112.37663 
+L 948.16047 116.357899 
+L 952.78906 119.925064 
+L 957.41765 123.730432 
+L 962.04624 127.785057 
+L 966.67483 132.10032 
+L 971.303419 136.687929 
+L 975.932009 141.559924 
+L 980.560599 146.728682 
+L 985.189189 152.206922 
+L 989.817779 158.007709 
+L 994.446369 164.144458 
+L 999.074959 170.63094 
+L 1003.703548 177.481285 
+L 1008.332138 184.709987 
+L 1012.960728 192.331908 
+L 1017.589318 200.362285 
+L 1022.217908 208.816731 
+L 1026.846498 217.711242 
+L 1031.475088 227.0622 
+L 1036.103677 236.886379 
+L 1040.732267 247.200947 
+L 1045.360857 258.023475 
+L 1049.989447 269.371937 
+L 1054.618037 281.264716 
+L 1059.246627 293.72061 
+L 1062.949498 304.103666 
+L 1062.949498 304.103666 
+" clip-path="url(#p9ec60e4a78)" style="fill: none; stroke-dasharray: 7.4,3.2; stroke-dashoffset: 0; stroke: #000000; stroke-width: 2"/>
+   </g>
+   <g id="line2d_60">
+    <path d="M 601.016231 39.427273 
+L 604.719103 45.987951 
+L 608.421975 52.075305 
+L 612.124847 57.719143 
+L 615.827719 62.947827 
+L 619.530591 67.788322 
+L 623.233463 72.26624 
+L 626.936335 76.405887 
+L 630.639207 80.230305 
+L 634.342078 83.761321 
+L 638.04495 87.019585 
+L 641.747822 90.024616 
+L 645.450694 92.794845 
+L 650.079284 95.953822 
+L 654.707874 98.804744 
+L 659.336464 101.377016 
+L 663.965053 103.697814 
+L 668.593643 105.792214 
+L 674.147951 108.039007 
+L 679.702259 110.029239 
+L 685.256567 111.795589 
+L 691.736593 113.612276 
+L 698.216618 115.205149 
+L 705.622362 116.797324 
+L 713.953824 118.35187 
+L 723.211004 119.848589 
+L 734.319619 121.405466 
+L 747.279671 122.991785 
+L 764.868312 124.902531 
+L 799.119877 128.331432 
+L 823.188544 130.861967 
+L 838.92575 132.739537 
+L 851.885801 134.515513 
+L 862.994417 136.270329 
+L 872.251597 137.943561 
+L 881.508776 139.851292 
+L 889.840238 141.804996 
+L 897.245982 143.75856 
+L 904.651726 145.942489 
+L 912.057469 148.382739 
+L 918.537495 150.748989 
+L 925.017521 153.349506 
+L 931.497547 156.201942 
+L 937.977573 159.323585 
+L 943.53188 162.226211 
+L 949.086188 165.348888 
+L 954.640496 168.701008 
+L 960.194804 172.291216 
+L 965.749112 176.127258 
+L 971.303419 180.215823 
+L 976.857727 184.562382 
+L 982.412035 189.171009 
+L 987.966343 194.044201 
+L 993.520651 199.182686 
+L 1000.000677 205.511114 
+L 1006.480702 212.193125 
+L 1012.960728 219.218487 
+L 1019.440754 226.571986 
+L 1026.846498 235.350953 
+L 1034.252241 244.49067 
+L 1042.583703 255.138911 
+L 1052.766601 268.54642 
+L 1062.949498 282.182144 
+L 1062.949498 282.182144 
+" clip-path="url(#p9ec60e4a78)" style="fill: none; stroke: #ff0000; stroke-width: 2.5; stroke-linecap: square"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 597.088577 318.04 
+L 597.088577 26.16 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 1066.877153 318.04 
+L 1066.877153 26.16 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 597.088577 318.04 
+L 1066.877153 318.04 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 597.088577 26.16 
+L 1066.877153 26.16 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_35">
+    <!-- Q3: Fitted vs True function (degree 6) -->
+    <g transform="translate(722.385365 20.16) scale(0.12 -0.12)">
+     <defs>
+      <path id="LucidaGrande-46" d="M 597 0 
+L 597 4625 
+L 3181 4625 
+L 3181 4134 
+L 1253 4134 
+L 1253 2584 
+L 2872 2584 
+L 2872 2100 
+L 1253 2100 
+L 1253 0 
+L 597 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="LucidaGrande-64" d="M 2794 0 
+L 2794 638 
+Q 2419 -78 1663 -78 
+Q 1050 -78 698 369 
+Q 347 816 347 1591 
+Q 347 2438 745 2953 
+Q 1144 3469 1794 3469 
+Q 2397 3469 2794 3006 
+L 2794 4934 
+L 3413 4934 
+L 3413 0 
+L 2794 0 
+z
+M 2794 2584 
+Q 2316 3006 1888 3006 
+Q 1003 3006 1003 1653 
+Q 1003 463 1791 463 
+Q 2303 463 2794 1022 
+L 2794 2584 
+z
+" transform="scale(0.015625)"/>
+      <path id="LucidaGrande-66" d="M 1350 2931 
+L 1350 0 
+L 731 0 
+L 731 2931 
+L 250 2931 
+L 250 3394 
+L 731 3394 
+L 731 3800 
+Q 731 5013 1838 5013 
+Q 2147 5013 2541 4909 
+L 2541 4422 
+Q 2125 4550 1875 4550 
+Q 1572 4550 1461 4404 
+Q 1350 4259 1350 3866 
+L 1350 3394 
+L 2197 3394 
+L 2197 2931 
+L 1350 2931 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#LucidaGrande-51"/>
+     <use xlink:href="#LucidaGrande-33" transform="translate(77.685547 0)"/>
+     <use xlink:href="#LucidaGrande-3a" transform="translate(140.917969 0)"/>
+     <use xlink:href="#LucidaGrande-20" transform="translate(172.558594 0)"/>
+     <use xlink:href="#LucidaGrande-46" transform="translate(204.199219 0)"/>
+     <use xlink:href="#LucidaGrande-69" transform="translate(257.8125 0)"/>
+     <use xlink:href="#LucidaGrande-74" transform="translate(286.71875 0)"/>
+     <use xlink:href="#LucidaGrande-74" transform="translate(324.121094 0)"/>
+     <use xlink:href="#LucidaGrande-65" transform="translate(361.523438 0)"/>
+     <use xlink:href="#LucidaGrande-64" transform="translate(417.236328 0)"/>
+     <use xlink:href="#LucidaGrande-20" transform="translate(480.175781 0)"/>
+     <use xlink:href="#LucidaGrande-76" transform="translate(511.816406 0)"/>
+     <use xlink:href="#LucidaGrande-73" transform="translate(563.574219 0)"/>
+     <use xlink:href="#LucidaGrande-20" transform="translate(614.550781 0)"/>
+     <use xlink:href="#LucidaGrande-54" transform="translate(646.191406 0)"/>
+     <use xlink:href="#LucidaGrande-72" transform="translate(709.423828 0)"/>
+     <use xlink:href="#LucidaGrande-75" transform="translate(750.341797 0)"/>
+     <use xlink:href="#LucidaGrande-65" transform="translate(812.402344 0)"/>
+     <use xlink:href="#LucidaGrande-20" transform="translate(868.115234 0)"/>
+     <use xlink:href="#LucidaGrande-66" transform="translate(899.755859 0)"/>
+     <use xlink:href="#LucidaGrande-75" transform="translate(936.523438 0)"/>
+     <use xlink:href="#LucidaGrande-6e" transform="translate(998.583984 0)"/>
+     <use xlink:href="#LucidaGrande-63" transform="translate(1060.644531 0)"/>
+     <use xlink:href="#LucidaGrande-74" transform="translate(1111.865234 0)"/>
+     <use xlink:href="#LucidaGrande-69" transform="translate(1149.267578 0)"/>
+     <use xlink:href="#LucidaGrande-6f" transform="translate(1178.173828 0)"/>
+     <use xlink:href="#LucidaGrande-6e" transform="translate(1239.599609 0)"/>
+     <use xlink:href="#LucidaGrande-20" transform="translate(1301.660156 0)"/>
+     <use xlink:href="#LucidaGrande-28" transform="translate(1333.300781 0)"/>
+     <use xlink:href="#LucidaGrande-64" transform="translate(1365.820312 0)"/>
+     <use xlink:href="#LucidaGrande-65" transform="translate(1428.759766 0)"/>
+     <use xlink:href="#LucidaGrande-67" transform="translate(1484.472656 0)"/>
+     <use xlink:href="#LucidaGrande-72" transform="translate(1546.826172 0)"/>
+     <use xlink:href="#LucidaGrande-65" transform="translate(1587.744141 0)"/>
+     <use xlink:href="#LucidaGrande-65" transform="translate(1643.457031 0)"/>
+     <use xlink:href="#LucidaGrande-20" transform="translate(1699.169922 0)"/>
+     <use xlink:href="#LucidaGrande-36" transform="translate(1730.810547 0)"/>
+     <use xlink:href="#LucidaGrande-29" transform="translate(1794.042969 0)"/>
+    </g>
+   </g>
+   <g id="legend_2">
+    <g id="patch_13">
+     <path d="M 954.289653 92.827187 
+L 1059.877153 92.827187 
+Q 1061.877153 92.827187 1061.877153 90.827187 
+L 1061.877153 33.16 
+Q 1061.877153 31.16 1059.877153 31.16 
+L 954.289653 31.16 
+Q 952.289653 31.16 952.289653 33.16 
+L 952.289653 90.827187 
+Q 952.289653 92.827187 954.289653 92.827187 
+z
+" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+    </g>
+    <g id="PathCollection_3">
+     <g>
+      <use xlink:href="#m2eb129714d" x="966.289653" y="40.244375" style="fill: #0000ff; fill-opacity: 0.6; stroke: #0000ff; stroke-opacity: 0.6"/>
+     </g>
+    </g>
+    <g id="text_36">
+     <!-- Train data -->
+     <g transform="translate(984.289653 42.869375) scale(0.1 -0.1)">
+      <use xlink:href="#LucidaGrande-54"/>
+      <use xlink:href="#LucidaGrande-72" transform="translate(63.232422 0)"/>
+      <use xlink:href="#LucidaGrande-61" transform="translate(104.150391 0)"/>
+      <use xlink:href="#LucidaGrande-69" transform="translate(159.375 0)"/>
+      <use xlink:href="#LucidaGrande-6e" transform="translate(188.28125 0)"/>
+      <use xlink:href="#LucidaGrande-20" transform="translate(250.341797 0)"/>
+      <use xlink:href="#LucidaGrande-64" transform="translate(281.982422 0)"/>
+      <use xlink:href="#LucidaGrande-61" transform="translate(344.921875 0)"/>
+      <use xlink:href="#LucidaGrande-74" transform="translate(400.146484 0)"/>
+      <use xlink:href="#LucidaGrande-61" transform="translate(437.548828 0)"/>
+     </g>
+    </g>
+    <g id="PathCollection_4">
+     <g>
+      <use xlink:href="#m614f538f92" x="966.289653" y="54.881875" style="fill: #ffa500; fill-opacity: 0.4; stroke: #ffa500; stroke-opacity: 0.4"/>
+     </g>
+    </g>
+    <g id="text_37">
+     <!-- Test data -->
+     <g transform="translate(984.289653 57.506875) scale(0.1 -0.1)">
+      <use xlink:href="#LucidaGrande-54"/>
+      <use xlink:href="#LucidaGrande-65" transform="translate(63.232422 0)"/>
+      <use xlink:href="#LucidaGrande-73" transform="translate(118.945312 0)"/>
+      <use xlink:href="#LucidaGrande-74" transform="translate(169.921875 0)"/>
+      <use xlink:href="#LucidaGrande-20" transform="translate(207.324219 0)"/>
+      <use xlink:href="#LucidaGrande-64" transform="translate(238.964844 0)"/>
+      <use xlink:href="#LucidaGrande-61" transform="translate(301.904297 0)"/>
+      <use xlink:href="#LucidaGrande-74" transform="translate(357.128906 0)"/>
+      <use xlink:href="#LucidaGrande-61" transform="translate(394.53125 0)"/>
+     </g>
+    </g>
+    <g id="line2d_61">
+     <path d="M 956.289653 68.644375 
+L 966.289653 68.644375 
+L 976.289653 68.644375 
+" style="fill: none; stroke-dasharray: 7.4,3.2; stroke-dashoffset: 0; stroke: #000000; stroke-width: 2"/>
+    </g>
+    <g id="text_38">
+     <!-- True function -->
+     <g transform="translate(984.289653 72.144375) scale(0.1 -0.1)">
+      <use xlink:href="#LucidaGrande-54"/>
+      <use xlink:href="#LucidaGrande-72" transform="translate(63.232422 0)"/>
+      <use xlink:href="#LucidaGrande-75" transform="translate(104.150391 0)"/>
+      <use xlink:href="#LucidaGrande-65" transform="translate(166.210938 0)"/>
+      <use xlink:href="#LucidaGrande-20" transform="translate(221.923828 0)"/>
+      <use xlink:href="#LucidaGrande-66" transform="translate(253.564453 0)"/>
+      <use xlink:href="#LucidaGrande-75" transform="translate(290.332031 0)"/>
+      <use xlink:href="#LucidaGrande-6e" transform="translate(352.392578 0)"/>
+      <use xlink:href="#LucidaGrande-63" transform="translate(414.453125 0)"/>
+      <use xlink:href="#LucidaGrande-74" transform="translate(465.673828 0)"/>
+      <use xlink:href="#LucidaGrande-69" transform="translate(503.076172 0)"/>
+      <use xlink:href="#LucidaGrande-6f" transform="translate(531.982422 0)"/>
+      <use xlink:href="#LucidaGrande-6e" transform="translate(593.408203 0)"/>
+     </g>
+    </g>
+    <g id="line2d_62">
+     <path d="M 956.289653 83.281875 
+L 966.289653 83.281875 
+L 976.289653 83.281875 
+" style="fill: none; stroke: #ff0000; stroke-width: 2.5; stroke-linecap: square"/>
+    </g>
+    <g id="text_39">
+     <!-- Fitted degree 6 -->
+     <g transform="translate(984.289653 86.781875) scale(0.1 -0.1)">
+      <use xlink:href="#LucidaGrande-46"/>
+      <use xlink:href="#LucidaGrande-69" transform="translate(53.613281 0)"/>
+      <use xlink:href="#LucidaGrande-74" transform="translate(82.519531 0)"/>
+      <use xlink:href="#LucidaGrande-74" transform="translate(119.921875 0)"/>
+      <use xlink:href="#LucidaGrande-65" transform="translate(157.324219 0)"/>
+      <use xlink:href="#LucidaGrande-64" transform="translate(213.037109 0)"/>
+      <use xlink:href="#LucidaGrande-20" transform="translate(275.976562 0)"/>
+      <use xlink:href="#LucidaGrande-64" transform="translate(307.617188 0)"/>
+      <use xlink:href="#LucidaGrande-65" transform="translate(370.556641 0)"/>
+      <use xlink:href="#LucidaGrande-67" transform="translate(426.269531 0)"/>
+      <use xlink:href="#LucidaGrande-72" transform="translate(488.623047 0)"/>
+      <use xlink:href="#LucidaGrande-65" transform="translate(529.541016 0)"/>
+      <use xlink:href="#LucidaGrande-65" transform="translate(585.253906 0)"/>
+      <use xlink:href="#LucidaGrande-20" transform="translate(640.966797 0)"/>
+      <use xlink:href="#LucidaGrande-36" transform="translate(672.607422 0)"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p7bd4308926">
+   <rect x="62.21" y="26.16" width="469.788577" height="291.88"/>
+  </clipPath>
+  <clipPath id="p9ec60e4a78">
+   <rect x="597.088577" y="26.16" width="469.788577" height="291.88"/>
+  </clipPath>
+ </defs>
+</svg>
