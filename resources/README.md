@@ -24,7 +24,7 @@ Common tools for this course:
 - Python (NumPy, SciPy, Matplotlib)
 - PyTorch or TensorFlow for deep learning
 - Jupyter Notebooks for interactive development
-- Specialized libraries (GPy, PyMC3, Edward, etc.)
+- Specialized libraries (GPy, PyMC, TensorFlow Probability, Pyro, etc.)
 
 ## Datasets
 
